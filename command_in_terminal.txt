@@ -1,0 +1,2 @@
+clear && g++ switch.cpp -o switch.out && g++ system.cpp -o system.out && g++ manage.cpp -o manage.out && ./manage.out
+

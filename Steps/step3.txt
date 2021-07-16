@@ -1,0 +1,19 @@
+MySystem 1
+MySystem 2
+MySystem 3
+MySystem 4
+MySystem 5
+MySystem 6
+MySystem 7
+MySwitch 10 5
+
+Connect 1 5 1
+Connect 2 5 2
+Connect 3 5 3
+Connect 4 5 4
+Connect 5 5 5
+Connect 6 5 6
+Connect 7 5 7
+
+Send 1 2 test.txt
+Send 4 5 test.txt
